@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>SPOTIFY_HUD.png</file>
+    </qresource>
+</RCC>
